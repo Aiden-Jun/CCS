@@ -32,22 +32,3 @@ e rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 0
 ```
 Evaluation as a number
-
-
-### Game start
-```
-s
-```
-- s - command
-
-Just lets the engine know that a game has started
-
-
-
-### Game terminate
-```
-t
-```
-- t - command
-
-Just lets the engine know that a game has ended
